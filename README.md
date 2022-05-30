@@ -32,15 +32,33 @@ Sonntag | Sunday
 
 wort   | word
 -------|-----
-zimmer | room
-reise  | trip
 von    | from
 nach   | to
+abfahrtszeit | departure time
+ankunftszeit | arrival time
+zimmer | room
+reise  | trip
 erwachsen | adult
+
+wort | word
+-----|-----
+bahnhof | train station
 
 ## Phrasen
 
 phrase | phrase
 -------|-------
+hallo | hello
+tschüss | bye
+bitte | please
+danke | thanks
+entschuldigung | excuse me
+sorry | sorry 
+
+phrase | phrase
+-------|-------
 wo ist...  | where is...
+wo finde ich... | where do I find...
+wann ist... | when is...
+wann fährt... | when is...
 welchen... | which...
