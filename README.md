@@ -43,6 +43,8 @@ von    | from
 nach   | to
 abfahrtszeit | departure time
 ankunftszeit | arrival time
+abfahrt | departure
+ankunft | arrival
 zimmer | room
 reise  | trip
 erwachsen | adult
