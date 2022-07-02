@@ -17,6 +17,13 @@ heute abend | tonight
 woche | week
 monat | month
 
+wort | word
+-----|------
+stündlich | hourly
+nächtlich | nightly
+täglich | daily
+wöchentlich | weekly
+
 tage | day
 -----|----
 Montag | Monday
