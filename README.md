@@ -7,7 +7,7 @@ me learning deutsch
 * [Mahlzeiten](#mahlzeiten)
 * [Phrasen](#phrasen)
 
-## Time
+## Zeit
 
 wort | word
 -----|-----
