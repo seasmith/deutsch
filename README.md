@@ -4,6 +4,7 @@ me learning deutsch
 * [Zeit](#zeit)
 * [Nummer](#nummer)
 * [Reise](#reise)
+* [Mahlzeiten](#mahlzeiten)
 * [Phrasen](#phrasen)
 
 ## Time
@@ -110,6 +111,12 @@ wort | word
 -----|-----
 bahnhof | train station
 
+## Mahlzeiten
+
+mahlzeit | meal
+---------|-----
+frühstück | 
+
 ## Phrasen
 
 phrase | phrase
@@ -128,3 +135,4 @@ wo finde ich... | where do I find...
 wann ist... | when is...
 wann fährt... | when is...
 welchen... | which...
+wie viel... | how many...
