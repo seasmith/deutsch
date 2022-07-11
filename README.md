@@ -115,7 +115,20 @@ bahnhof | train station
 
 mahlzeit | meal
 ---------|-----
-frühstück | 
+frühstück | breakfast
+mittagessen | lunch
+abendessen | dinner
+snack | snack
+wasser | water
+sprudel | soda
+
+## Standort
+
+standort | place
+---------|------
+bahnhof | train station
+flughafen | airport
+busbahnhof | bus station
 
 ## Phrasen
 
