@@ -5,6 +5,7 @@ me learning deutsch
 * [Nummer](#nummer)
 * [Reise](#reise)
 * [Mahlzeiten](#mahlzeiten)
+* [Standort](#standort)
 * [Phrasen](#phrasen)
 
 ## Zeit
@@ -126,9 +127,15 @@ sprudel | soda
 
 standort | place
 ---------|------
+die anschrift | address
 bahnhof | train station
 flughafen | airport
 busbahnhof | bus station
+Supermarkt | supermarket
+lebensmittelmarkt | grocery store
+apotheke | pharmacy
+botschaft | embassy
+botschaft der Vereinigten Staaten | US embassy
 
 ## Phrasen
 
