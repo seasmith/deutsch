@@ -142,7 +142,7 @@ botschaft der Vereinigten Staaten | US embassy
 phrase | phrase
 -------|-------
 hallo | hello
-tschüss | bye
+auf wiedersehen/tschüss | good bye
 bitte | please
 danke | thanks
 entschuldigung | excuse me
