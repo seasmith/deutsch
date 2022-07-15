@@ -111,6 +111,10 @@ erwachsen | adult
 wort | word
 -----|-----
 bahnhof | train station
+flughafen | airport
+busbahnhof | bus station
+botschaft | embassy
+botschaft der Vereinigten Staaten | US embassy
 
 ## Mahlzeiten
 
@@ -127,15 +131,16 @@ sprudel | soda
 
 standort | place
 ---------|------
+straße | street
+gasse | alley
+bürgersteig | sidewalk
 die anschrift | address
-bahnhof | train station
-flughafen | airport
-busbahnhof | bus station
+
+standort | place
+---------|------
 Supermarkt | supermarket
 lebensmittelmarkt | grocery store
 apotheke | pharmacy
-botschaft | embassy
-botschaft der Vereinigten Staaten | US embassy
 
 ## Phrasen
 
@@ -146,7 +151,8 @@ auf wiedersehen/tschüss | good bye
 bitte | please
 danke | thanks
 entschuldigung | excuse me
-sorry | sorry 
+tut mir leid | i am sorry 
+das tut mir leid | sorry about that
 
 phrase | phrase
 -------|-------
